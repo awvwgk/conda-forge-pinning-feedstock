@@ -58,10 +58,12 @@ cairomm
 calceph
 cantera
 capnproto
+carma
 cartographer
 cartopy
 cascade
 catch2
+cbonsai
 cccl
 ccdproc
 cctbx-base
@@ -87,6 +89,7 @@ conda-suggest-conda-forge
 configurable-http-proxy
 console_bridge
 constructor
+coreforecast
 cpp-filesystem
 cppad
 cppcheck
@@ -184,6 +187,7 @@ fa2
 faiss-split
 fancycompleter
 fast-histogram
+fast_float
 fastparquet
 fcl
 fenics-dolfinx
@@ -257,10 +261,12 @@ harp
 hdbscan
 healpix_cxx
 heaptrack
+heffte
 hepmc3
 heyoka
 heyoka.py
 hmmlearn
+horovod
 howardhinnant_date
 htcondor
 htcondor-utils
@@ -268,6 +274,7 @@ htop
 httplib2
 httptools
 hub
+human-dynamics-estimation
 hurl
 hyperspy
 ibm_db
@@ -329,6 +336,7 @@ libboost-mpi
 libcap
 libcint
 libcublas
+libcublasmp
 libcufft
 libcufile
 libcugraph
@@ -512,6 +520,7 @@ perl-io-tty
 perl-lwp-simple
 perl-mime-base64
 perl-moose
+perl-scalar-list-utils
 perl-socket
 perl-storbale
 perl-version
@@ -582,6 +591,7 @@ pylibtiff
 pylint
 pymatgen
 pymca
+pymol-open-source
 pymupdf
 pynacl
 pynisher
@@ -964,7 +974,9 @@ rosdistro
 rrdtool
 ruff
 sage
+sasktran2
 scalene
+scdoc
 scenepic
 scikit-allel
 scikit-bio
@@ -989,6 +1001,7 @@ sleef
 slepc
 slycot
 snowflake-connector-python
+snowflake-snowpark-python
 soapysdr-module-plutosdr
 soapysdr-module-remote
 soapysdr-module-rtlsdr
@@ -1004,10 +1017,12 @@ spral
 spyder
 spyder-kernels
 sqlalchemy
+sqlglotrs
 sqsgenerator
 squashfuse
 srm
 starship
+statsforecast
 statsmodels
 su-exec
 suitesparse

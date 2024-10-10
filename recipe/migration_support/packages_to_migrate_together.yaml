@@ -1,6 +1,10 @@
 # These packages need to be migrated together.
 # Currently they need to have the same version
 
+coin_or_cbc:
+  - coin_or_cbc
+  - coincbc
+
 libboost_devel:
   - libboost_devel
   - libboost_headers
@@ -15,6 +19,11 @@ libpdal:
   - pdal
   - libpdal
   - libpdal_core
+
+libpq:
+  - libpq
+  - postgresql
+  - postgresql_plpython
 
 libwebp:
   - libwebp
@@ -52,6 +61,10 @@ libgoogle_cloud:
   - libgoogle_cloud_speech_devel
   - libgoogle_cloud_storage_devel
 
+libthrift:
+  - libthrift
+  - thrift_cpp
+
 libvigra:
   - libvigra
   - vigra
@@ -67,3 +80,7 @@ sqlite:
 pytorch:
   - libtorch
   - pytorch
+
+vtk:
+  - vtk_base
+  - vtk

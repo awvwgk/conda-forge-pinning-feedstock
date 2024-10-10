@@ -122,6 +122,7 @@ casadi
 cascade
 causalml
 cbgen
+cbonsai
 ccache
 cchardet
 cctbx-base
@@ -222,6 +223,8 @@ cx_freeze
 cyanure
 cyipopt
 cython-fortran-file
+cytoplay
+cytosim
 dagster
 daqp
 dart-sass
@@ -272,6 +275,7 @@ dm-tree
 docker-buildx
 docker-cli
 docker-compose
+dockle
 docopt.cpp
 docutils
 doit
@@ -279,6 +283,7 @@ dos2unix
 doxygen
 dscribe
 dsps
+dssp
 dtaidistance
 dtw-python
 ducc0
@@ -320,13 +325,16 @@ faiss-split
 falcon
 fast-histogram
 fast-query-parsers
+fast_hdbscan
 fastapi
 fastavro
 fastcache
+fastcluster
 fastdtw
 fastnumbers
 fastparquet
 fastremap
+fasttext
 faunus
 fenics-dolfinx
 fiatlux
@@ -343,6 +351,10 @@ fitsio
 flake8-annotations
 flash
 flatbuffers
+fluidfft
+fluidfft-fftw
+fluidimage
+fluidsim
 fonttools
 forcebalance
 forestci
@@ -483,6 +495,7 @@ healpix
 healpix_cxx
 healpy
 heat
+heffte
 helios
 helix
 help2man
@@ -502,6 +515,7 @@ htop
 httpx
 hug
 hugin
+human-dynamics-estimation
 hunspell
 hurl
 hydride
@@ -764,6 +778,8 @@ nest-simulator
 netcdf-cxx4
 netcdf4
 netgen
+neunorm
+neuron
 newrelic
 nexus
 ngmix
@@ -961,6 +977,7 @@ pydelatin
 pydpc
 pyduktape2
 pyebsdindex
+pyeda
 pyelftools
 pyemir
 pyemma
@@ -1204,6 +1221,7 @@ r-keyring
 r-knitr
 r-languageserver
 r-latticeextra
+r-leafpop
 r-leaps
 r-lfe
 r-lhs
@@ -1364,6 +1382,7 @@ scalene
 scandir
 scanpy
 sccache
+scdoc
 scenepic
 schwimmbad
 scikit-allel
@@ -1394,6 +1413,7 @@ sdl2_image
 sdl2_mixer
 sdl2_net
 sdl2_ttf
+sdsl-lite
 seabreeze
 sedflux
 selenium-manager
@@ -1414,6 +1434,7 @@ simpleitk
 simplejson
 simplification
 six
+sixs_json
 skopeo
 sleef
 sleepecg
@@ -1423,6 +1444,7 @@ snaphu
 snappy
 sncosmo
 snowflake-connector-python
+snowflake-snowpark-python
 soapysdr-module-plutosdr
 soapysdr-module-remote
 soapysdr-module-rtlsdr
