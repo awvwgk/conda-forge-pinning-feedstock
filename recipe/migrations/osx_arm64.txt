@@ -341,6 +341,7 @@ euphonic
 eups
 exoplanet
 exoplanet-core
+expat
 exprtk
 extinction
 eza
@@ -611,6 +612,7 @@ kdepy
 kepderiv
 keras
 keras-preprocessing
+khiops-binaries
 kim-api
 kimpy
 kliff
@@ -951,6 +953,7 @@ perl-compress-raw-bzip2
 perl-compress-raw-zlib
 perl-data-dumper
 perl-db_file
+perl-dbi
 perl-digest-md5
 perl-encode
 perl-io-tty
@@ -960,6 +963,7 @@ perl-pathtools
 perl-scalar-list-utils
 perl-storable
 perl-unicode-linebreak
+perl-unix-processors
 perl-version
 perl-xml-parser
 perspective
@@ -1280,6 +1284,7 @@ r-changepoints
 r-checkmate
 r-cmdstanr
 r-coda
+r-collapse
 r-cubature
 r-cvxr
 r-dbarts
