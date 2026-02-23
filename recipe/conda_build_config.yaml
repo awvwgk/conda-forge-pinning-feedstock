@@ -753,7 +753,7 @@ lmdb:
 log4cxx:
   - 1.2.0
 lol_html:
-  - 2.7.1
+  - 2.7.2
 lz4_c:
   - '1.10'
 lzo:
