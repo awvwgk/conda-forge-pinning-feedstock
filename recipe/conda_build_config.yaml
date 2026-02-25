@@ -454,7 +454,7 @@ jsoncpp:
 kealib:
   - '1.6'
 krb5:
-  - '1.21'
+  - '1.22'
 ldas_tools_framecpp:
   - '2.9'
 libabseil:
