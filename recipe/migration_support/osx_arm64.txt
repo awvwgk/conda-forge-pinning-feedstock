@@ -1076,6 +1076,7 @@ poetry
 polars
 polyagamma
 polycap
+polymer
 polyscope
 pomegranate
 porespy
